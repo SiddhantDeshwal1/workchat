@@ -150,12 +150,6 @@ Here’s a preview of the **Devnoms Chat App**:
 
 ---
 
-## 📜 **License**
-
-The **Devnoms Chat App** is released under the [MIT License](LICENSE).
-
----
-
 # 💬 **Join Devnoms Today!**
 
 Don’t miss out on seamless communication with **Devnoms Chat App**! Start chatting now and experience a whole new level of connectivity.
