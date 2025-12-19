@@ -2,7 +2,7 @@
 /*!
  * XRegExp.build 3.2.0
  * <xregexp.com>
- * Steven Levithan (c) 2012-2017 MIT License
+ * Steven Levithan (c) 2012-2017 License
  * Inspired by Lea Verou's RegExp.create <lea.verou.me>
  */
 
@@ -197,7 +197,7 @@ module.exports = function(XRegExp) {
 /*!
  * XRegExp.matchRecursive 3.2.0
  * <xregexp.com>
- * Steven Levithan (c) 2009-2017 MIT License
+ * Steven Levithan (c) 2009-2017 License
  */
 
 module.exports = function(XRegExp) {
@@ -398,7 +398,7 @@ module.exports = function(XRegExp) {
 /*!
  * XRegExp Unicode Base 3.2.0
  * <xregexp.com>
- * Steven Levithan (c) 2008-2017 MIT License
+ * Steven Levithan (c) 2008-2017 License
  */
 
 module.exports = function(XRegExp) {
@@ -660,7 +660,7 @@ module.exports = function(XRegExp) {
 /*!
  * XRegExp Unicode Blocks 3.2.0
  * <xregexp.com>
- * Steven Levithan (c) 2010-2017 MIT License
+ * Steven Levithan (c) 2010-2017 License
  * Unicode data by Mathias Bynens <mathiasbynens.be>
  */
 
@@ -1782,7 +1782,7 @@ module.exports = function(XRegExp) {
 /*!
  * XRegExp Unicode Categories 3.2.0
  * <xregexp.com>
- * Steven Levithan (c) 2010-2017 MIT License
+ * Steven Levithan (c) 2010-2017 License
  * Unicode data by Mathias Bynens <mathiasbynens.be>
  */
 
@@ -2020,7 +2020,7 @@ module.exports = function(XRegExp) {
 /*!
  * XRegExp Unicode Properties 3.2.0
  * <xregexp.com>
- * Steven Levithan (c) 2012-2017 MIT License
+ * Steven Levithan (c) 2012-2017 License
  * Unicode data by Mathias Bynens <mathiasbynens.be>
  */
 
@@ -2128,7 +2128,7 @@ module.exports = function(XRegExp) {
 /*!
  * XRegExp Unicode Scripts 3.2.0
  * <xregexp.com>
- * Steven Levithan (c) 2010-2017 MIT License
+ * Steven Levithan (c) 2010-2017 License
  * Unicode data by Mathias Bynens <mathiasbynens.be>
  */
 
@@ -2729,7 +2729,7 @@ module.exports = XRegExp;
 /*!
  * XRegExp 3.2.0
  * <xregexp.com>
- * Steven Levithan (c) 2007-2017 MIT License
+ * Steven Levithan (c) 2007-2017 License
  */
 
 'use strict';
