@@ -17,7 +17,7 @@ if DEVELOPMENT == "local":
     DATABASES = {
         "default": {
             "ENGINE": "django.db.backends.postgresql",
-            "NAME": "devnoms_localdb",
+            "NAME": "workchat_localdb",
             "USER": os.getenv("DB_USER_LOCAL"),
             "PASSWORD": os.getenv("DB_PASS_LOCAL"),
             "HOST": os.getenv("DB_HOST_LOCAL"),
@@ -75,7 +75,7 @@ INSTALLED_APPS = [
     "chat",
     "corsheaders",
 ]
-ASGI_APPLICATION = "devnoms.asgi.application"
+ASGI_APPLICATION = "workchat.asgi.application"
 
 CHANNEL_LAYERS = {
     "default": {
@@ -95,7 +95,7 @@ MIDDLEWARE = [
     "corsheaders.middleware.CorsMiddleware",
 ]
 
-ROOT_URLCONF = "devnoms.urls"
+ROOT_URLCONF = "workchat.urls"
 
 TEMPLATES = [
     {
@@ -113,7 +113,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "devnoms.wsgi.application"
+WSGI_APPLICATION = "workchat.wsgi.application"
 
 AUTH_PASSWORD_VALIDATORS = [
     {
