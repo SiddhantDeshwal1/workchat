@@ -1,5 +1,5 @@
 """
-WSGI config for devnoms project.
+WSGI config for WorkChat project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

@@ -1,14 +1,10 @@
-# [Django Chat Application (WorkChat)](https://workchat.onrender.com)
-  
-🚀 Welcome to **WorkChat**, a modern, feature-rich real-time chat platform! Designed to empower seamless communication, **WorkChat** allows users to connect with friends, manage profiles, and engage in real-time conversations with an intuitive interface and cutting-edge features.
+# [Django Chat Application (WorkChat)](http://127.0.0.1:8000)
 
----
+![WorkChat](https://img.shields.io/badge/Work-Chat-blue?style=for-the-badge)
 
-## 🌐 **Live Preview**
+A simple, real-time chat application built using Django and HTMX.
 
-Experience the power of **WorkChat** right now:
-
-[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)](https://workchat.onrender.com)
+[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen?style=for-the-badge&logo=django)](http://127.0.0.1:8000)
 
 ---
 
@@ -85,8 +81,8 @@ Clone the **WorkChat** repository and set up locally:
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/your-username/workchat-app.git](https://github.com/your-username/workchat-app.git)
-   cd workchat-app
+   git clone https://github.com/username/project-name.git
+   cd project-name
    ```
 
 2. **Install Dependencies**
@@ -143,4 +139,4 @@ Here’s a preview of **WorkChat**:
 
 Don’t miss out on seamless communication with **WorkChat**! Start chatting now and experience a whole new level of connectivity.
 
-🔗 [**Try WorkChat Now**](https://workchat.onrender.com)
+🔗 [**Try WorkChat Now**](http://127.0.0.1:8000)
